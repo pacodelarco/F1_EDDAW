@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1DAW-T\\ENT_DES\\Proyecto 2º Trimestre\\F1_EDDAW\\F1_EDDAW.csproj": {}
+  },
+  "projects": {
+    "D:\\1DAW-T\\ENT_DES\\Proyecto 2º Trimestre\\F1_EDDAW\\F1_EDDAW.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1DAW-T\\ENT_DES\\Proyecto 2º Trimestre\\F1_EDDAW\\F1_EDDAW.csproj",
+        "projectName": "F1_EDDAW",
+        "projectPath": "D:\\1DAW-T\\ENT_DES\\Proyecto 2º Trimestre\\F1_EDDAW\\F1_EDDAW.csproj",
+        "packagesPath": "C:\\Users\\fdelarco DAW\\.nuget\\packages\\",
+        "outputPath": "D:\\1DAW-T\\ENT_DES\\Proyecto 2º Trimestre\\F1_EDDAW\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fdelarco DAW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.csproj.AssemblyReference.cache
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.GeneratedMSBuildEditorConfig.editorconfig
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.AssemblyInfoInputs.cache
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.AssemblyInfo.cs
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.csproj.CoreCompileInputs.cache
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\bin\Debug\net6.0\F1_EDDAW.exe
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\bin\Debug\net6.0\F1_EDDAW.deps.json
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\bin\Debug\net6.0\F1_EDDAW.runtimeconfig.json
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\bin\Debug\net6.0\F1_EDDAW.dll
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\bin\Debug\net6.0\ref\F1_EDDAW.dll
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\bin\Debug\net6.0\F1_EDDAW.pdb
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.dll
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\ref\F1_EDDAW.dll
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.pdb
+D:\1DAW-T\ENT_DES\Proyecto 2º Trimestre\F1_EDDAW\obj\Debug\net6.0\F1_EDDAW.genruntimeconfig.cache

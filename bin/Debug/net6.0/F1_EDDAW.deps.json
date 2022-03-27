@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "F1_EDDAW/1.0.0": {
+        "runtime": {
+          "F1_EDDAW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "F1_EDDAW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
